@@ -1,0 +1,11 @@
+pandas~=2.2.0
+scikit-learn~=1.4.1.post1
+numpy~=1.26.4
+skrebate~=0.62
+Boruta~=0.3
+powershap~=0.0.9
+imblearn~=0.0
+scipy~=1.12.0
+matplotlib~=3.8.4
+paretoset~=1.2.3
+adjustText~=1.1.1
