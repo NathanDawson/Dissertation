@@ -1,6 +1,5 @@
 # Sensitive information and private university data
 /data
-/notebooks
 /scripts/archive/decompress_files.py
 /.idea
 
